@@ -6,6 +6,8 @@ Nesse caso soma de 1 em 1
  - contador-- = (contador = contador - 1)
 
 Nesse caso diminui de 1 em 1
+
+--ALTERAÇÃO TESTE--
 */
 
 function acaoBotao() {
